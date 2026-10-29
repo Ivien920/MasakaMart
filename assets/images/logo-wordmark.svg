@@ -1,0 +1,12 @@
+<svg viewBox="0 0 430 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MasakaMart</title>
+  <desc id="desc">MasakaMart shopping basket logo</desc>
+  <rect x="1" y="1" width="428" height="86" rx="8" fill="#F36B18"/>
+  <path d="M17 25h13l5 29h43l8-22H37" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="43" cy="66" r="4.5" fill="#fff"/><circle cx="73" cy="66" r="4.5" fill="#fff"/>
+  <path d="M49 28c3-15 14-22 29-21-2 14-11 24-29 26Z" fill="#1B9A59"/>
+  <path d="M52 29c7-8 14-13 24-18" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <text x="99" y="47" fill="#fff" font-family="Arial, sans-serif" font-size="37" font-weight="700">Masaka</text>
+  <text x="273" y="47" fill="#1B9A59" font-family="Arial, sans-serif" font-size="37" font-weight="700">Mart</text>
+  <text x="101" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.2">DIGITAL MARKET • LOCAL MARKET ONLINE</text>
+</svg>
