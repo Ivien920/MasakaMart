@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /customer/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /orders/
+Disallow: /notifications/
+Disallow: /support/
+
+Sitemap: https://masakamart.xo.je/sitemap.xml
